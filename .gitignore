@@ -1,18 +1,17 @@
+# JetBrains
+.idea/
 # Dart Editor
-.children
-.project
 *.dart.js
 *.dart.js.map
 *.dart.js.deps
 
 # pub
+.pub
 packages
-
-# polymer
-.buildlog
-out
-pubspec.lock
+.packages
+build
 
 #other
-.DS_Store
 .settings
+.buildlog
+.DS_Store
